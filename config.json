@@ -81,6 +81,10 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+     "黄色仓库": {
+      "api": "https://hsckzy.vip",
+      "name": "黄色仓库"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
